@@ -4,7 +4,7 @@ package com.cmcm;
  * Created by zyb on 2016/12/28.
  */
 
-class CMInfo {
+public class CMInfo {
 
     private String mPackageName ;
     private int mCurrentVersionCode;
